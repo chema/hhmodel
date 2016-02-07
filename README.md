@@ -22,6 +22,13 @@ The ACS Public Use Microdata Sample files (PUMS) are a sample of the actual resp
 * 06 07507	San Francisco County (South Central)--Bayview & Hunters Point PUMA
 * [Source](http://www.census.gov/geo/maps-data/maps/2010puma/st06_ca.html)
 
+2000 Census PUMAs for San Francisco
+=======================
+
+* 02201 - 02207
+* [Source, page 18 (PDF)](http://www2.census.gov/geo/maps/puma/puma2k/ca_puma5.pdf)
+
+
 Other Links
 ===========
 
