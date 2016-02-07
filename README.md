@@ -10,16 +10,17 @@ The ACS Public Use Microdata Sample files (PUMS) are a sample of the actual resp
 * [Converting to CSV to JSON using jq](http://infiniteundo.com/post/99336704013/convert-csv-to-json-with-jq)
 * [PUMS Technical Documentation](https://www.census.gov/programs-surveys/acs/technical-documentation/pums/documentation.html)
 
-PUMAs for San Francisco
+2010 Census PUMAs for San Francisco
 =======================
 
-06 07501	San Francisco County (North & West)--Richmond District PUMA
-06 07502	San Francisco County (North & East)--North Beach & Chinatown PUMA	
-06 07503	San Francisco County (Central)--South of Market & Potrero PUMA	
-06 07504	San Francisco County (Central)--Inner Mission & Castro PUMA	
-06 07505	San Francisco County (Central)--Sunset District (North) PUMA	
-06 07506	San Francisco County (South Central)--Sunset District (South) PUMA	
-06 07507	San Francisco County (South Central)--Bayview & Hunters Point PUMA
+* 06 07501	San Francisco County (North & West)--Richmond District PUMA
+* 06 07502	San Francisco County (North & East)--North Beach & Chinatown PUMA	
+* 06 07503	San Francisco County (Central)--South of Market & Potrero PUMA	
+* 06 07504	San Francisco County (Central)--Inner Mission & Castro PUMA	
+* 06 07505	San Francisco County (Central)--Sunset District (North) PUMA	
+* 06 07506	San Francisco County (South Central)--Sunset District (South) PUMA	
+* 06 07507	San Francisco County (South Central)--Bayview & Hunters Point PUMA
+* [Source](http://www.census.gov/geo/maps-data/maps/2010puma/st06_ca.html)
 
 Other Links
 ===========
