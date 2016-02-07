@@ -25,7 +25,13 @@ The ACS Public Use Microdata Sample files (PUMS) are a sample of the actual resp
 2000 Census PUMAs for San Francisco
 =======================
 
-* 02201 - 02207
+* 02201	San Francisco County (North & West)--Richmond District PUMA
+* 02202	San Francisco County (North & East)--North Beach & Chinatown PUMA	
+* 02203	San Francisco County (Central)--South of Market & Potrero PUMA	
+* 02204	San Francisco County (Central)--Inner Mission & Castro PUMA	
+* 02205	San Francisco County (Central)--Sunset District (North) PUMA	
+* 02206	San Francisco County (South Central)--Sunset District (South) PUMA	
+* 02207	San Francisco County (South Central)--Bayview & Hunters Point PUMA
 * [Source, page 18 (PDF)](http://www2.census.gov/geo/maps/puma/puma2k/ca_puma5.pdf)
 
 
